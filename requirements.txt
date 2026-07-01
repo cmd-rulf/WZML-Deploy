@@ -1,4 +1,4 @@
-aiohttp
+aiohttp[speedups] 
 aiofiles
 aioshutil
 anytree==2.8.0
@@ -43,8 +43,4 @@ tgcrypto
 uv
 uvloop==0.21.0
 xattr
-yt-dlp
-setuptools
-pymediainfo
-pyaes
-imdbinfo
+yt-dlp==2023.10.13
