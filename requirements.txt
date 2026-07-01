@@ -1,4 +1,4 @@
-aiohttp[speedups]
+aiohttp
 aiofiles
 aioshutil
 anytree==2.8.0
@@ -25,6 +25,7 @@ motor
 mutagen
 markdown
 natsort
+pytz
 pillow
 psutil
 pybase64
@@ -33,7 +34,6 @@ pymongo
 pyrofork==2.2.11
 python-dotenv
 python-magic
-pytz
 qbittorrent-api
 requests
 speedtest-cli
@@ -43,4 +43,7 @@ tgcrypto
 uv
 uvloop==0.21.0
 xattr
-yt-dlp==2023.10.13
+yt-dlp
+setuptools
+pymediainfo
+pyaes
